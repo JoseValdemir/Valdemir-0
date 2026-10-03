@@ -65,6 +65,11 @@ Me chamo José Valdemir, tenho 24 anos e sou natural de Sergipe. Atualmente, est
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=JoseValdemir&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseValdemir&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
+  />
 </p>
 
