@@ -11,7 +11,7 @@ Me chamo José Valdemir, tenho 24 anos e sou natural de Sergipe. Atualmente, est
             src="https://custom-icon-badges.demolab.com/github/stars/joseValdemir?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/joseValdemir?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
