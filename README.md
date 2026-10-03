@@ -28,18 +28,22 @@ Me chamo José Valdemir, tenho 24 anos e sou natural de Sergipe. Atualmente, est
    ### 🤖 Linguagens e Tecnologias
 
    <img 
+
      align= "letf"
      alt="JavaScript"
      title="JavaScript"
      width="30px"
      style="padding-rigth: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+      />
 
      <img 
-       align= "letf"
+
+     align= "letf"
      alt="Git"
      title="Git"
      width="30px"
      style="padding-rigth: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+     />
 
