@@ -2,7 +2,7 @@
 
 **`Estudante de Sistemas para Internet`**
 
-Me chamo José Valdemir, tenho 24 anos e sou natural de Sergipe. Atualmente, estou cursando Sistemas para Internet na Fanese. Sou apaixonada por tecnologia".
+Me chamo José Valdemir, tenho 24 anos e sou natural de Sergipe. Atualmente, estou cursando Sistemas para Internet na Fanese. Sou apaixonado por tecnologia".
 
  <a href="https://github.com/joseValdemir?tab=repositories&sort=stargazers">
         <img 
